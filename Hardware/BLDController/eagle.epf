@@ -1,0 +1,38 @@
+[Eagle]
+Version="06 06 00"
+Platform="Windows"
+Serial="6F24B2090F-LS-WLM-3CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/0SBLib.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Boards.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Displays.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-LED.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Passives.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-RF.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Retired.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/SparkFun-Sensors.lbr"
+UsedLibrary="C:/Users/SB233390/Documents/Work/MySVN/Eagle/TI_MSP430_v16.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="193 301 1095 728"
+State=1
+Number=0
+
+[Desktop]
+Screen="2960 1050"
+Window="Win_1"
